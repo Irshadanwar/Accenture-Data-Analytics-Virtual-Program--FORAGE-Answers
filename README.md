@@ -30,10 +30,8 @@ I welcome any feedback or suggestions for improvement. If you believe there are 
 
 ## Contact
 
-If you have any questions or would like to discuss any aspect of my work in this program, please feel free to contact me via email at [Your Email Address]. I'm open to discussions, collaborations, and networking opportunities related to data analytics and related fields.
-
 Thank you for visiting my repository, and I hope you find the provided solutions and resources helpful in your journey to mastering data analytics.
 
-Happy learning!
+Happy learning
 
-[Your Name]
+## MD IRSHAD ANWAR
