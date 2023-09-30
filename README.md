@@ -34,4 +34,3 @@ Thank you for visiting my repository, and I hope you find the provided solutions
 
 Happy learning
 
-## MD IRSHAD ANWAR
